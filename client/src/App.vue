@@ -144,7 +144,7 @@ onMounted(reloadLists);
   <main class="mx-auto min-h-screen max-w-[1480px] p-4 sm:p-6 lg:p-8">
     <header class="mb-6 flex flex-col gap-4 rounded-2xl border border-slate-200 bg-white p-5 shadow-sm sm:flex-row sm:items-center sm:justify-between">
       <div>
-        <p class="text-xs font-semibold uppercase tracking-[0.16em] text-slate-400">In-memory selector</p>
+        <!-- <p class="text-xs font-semibold uppercase tracking-[0.16em] text-slate-400">In-memory selector</p> -->
         <h1 class="mt-1 text-2xl font-semibold tracking-tight">Выбор и сортировка ID</h1>
         <p class="mt-1 text-sm text-slate-500">Базовый набор: 1–1 000 000. Страница API — максимум 20 элементов.</p>
       </div>
