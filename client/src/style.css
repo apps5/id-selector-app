@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply min-h-screen text-slate-900 antialiased;
+  }
+
+  button,
+  input {
+    @apply outline-none;
+  }
+}
